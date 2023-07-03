@@ -3,6 +3,7 @@
 <!--
 **judithkwesi/judithkwesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Hello everyone! I'm Judith Kwesiga, currently undergoing an exciting training program at RENU in Uganda. With a focus on software development, I'm expanding my skills in areas like [mention specific areas or technologies]. In this GitHub repository, I'll be documenting my progress, sharing projects, and offering insights into my learning journey. Join me as I embrace challenges, collaborate with peers, and explore the endless possibilities of technology.
+
+Throughout this training, I'm grateful for the support and guidance provided by the RENU team and my fellow participants. Together, we're embarking on a journey of exploration and growth, pushing the boundaries of our understanding and capabilities. This repository serves as a resource for anyone curious about the training experience at RENU or interested in the technologies we're studying. Feel free to explore, provide feedback, or connect with me for questions, suggestions, or collaboration opportunities. Let's learn, code, and make a positive impact together!
 -->
