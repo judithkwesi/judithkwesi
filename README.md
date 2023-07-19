@@ -1,7 +1,6 @@
 ### Introduction
-Hello everyone! I'm Judith Kwesiga, currently undergoing an exciting training program at RENU in Uganda. With a focus on software development, I'm expanding my skills in areas like [mention specific areas or technologies]. In this GitHub repository, I'll be documenting my progress, sharing projects, and offering insights into my learning journey. Join me as I embrace challenges, collaborate with peers, and explore the endless possibilities of technology.
-
-Throughout this training, I'm grateful for the support and guidance provided by the RENU team and my fellow participants. Together, we're embarking on a journey of exploration and growth, pushing the boundaries of our understanding and capabilities. This repository serves as a resource for anyone curious about the training experience at RENU or interested in the technologies we're studying. Feel free to explore, provide feedback, or connect with me for questions, suggestions, or collaboration opportunities. Let's learn, code, and make a positive impact together!
+Hello everyone! I'm Judith Kwesiga, currently undergoing an exciting training program at RENU in Uganda. With a focus on software development, I'm expanding my skills in areas like computer networking, cybersecurity and cloud computing. In this GitHub repository, I'll be documenting my progress, sharing projects, and offering insights into my learning journey. Join me as I embrace challenges, collaborate with peers, and explore the endless possibilities of technology.
+This repository serves as a resource for anyone curious about the training experience at RENU or interested in the technologies we're studying. Feel free to explore, provide feedback, or connect with me for questions, suggestions, or collaboration opportunities. Let's learn, code, and make a positive impact together!
 
 ### 3rd/July/2023
 
@@ -137,6 +136,31 @@ The creation of a TryHackMe account provided me with a platform to engage in pra
 
 Reflection:
 Creating a TryHackMe account opened up a world of hands-on learning opportunities in the realm of cybersecurity. By immersing myself in practical exercises and challenges, I can gain valuable experience in identifying vulnerabilities and implementing pre-security measures. This knowledge is crucial in the ever-evolving landscape of cybersecurity, where proactive defense is vital to staying ahead of potential threats. The TryHackMe platform serves as an excellent resource to develop and enhance my skills in this dynamic field.
+
+### 10th/July -14/July/2023
+
+#### Exploring In-Depth Layer 2 Switching and Spanning Tree Protocol
+
+Details:
+
+1. In-Depth Layer 2 Switching & Limitations:
+The session began with an in-depth analysis of Layer 2 switching, a crucial part of the OSI model's data link layer. Layer 2 switches operate at the MAC (Media Access Control) address level and facilitate efficient data forwarding within a local area network (LAN). We explored how switches use MAC address tables to make forwarding decisions, thereby significantly enhancing network performance compared to traditional hubs.
+I also learned about the limitations of Layer 2 switching. One prominent limitation is the inability to perform routing based on IP addresses. Layer 2 switches can only forward packets based on MAC addresses, which restricts their capabilities in larger, more complex networks where Layer 3 routing becomes essential.
+
+2. Bridges & Switches:
+The session further introduced us to bridges, an early form of network devices that connected multiple LAN segments. We learned how bridges operate at the data link layer, similar to switches, but with the primary purpose of connecting and segmenting LANs to enhance network performance and reduce broadcast domains. We discussed the advantages and limitations of bridges in comparison to switches, and how their functions have evolved over time.
+
+3. The 3 Layer-2 Switch Functions:
+To gain a deeper understanding of Layer 2 switches, we explored the three primary functions they perform:
+   -Learning: Layer 2 switches build and maintain MAC address tables to map MAC addresses to specific physical ports based on the source addresses of incoming frames.
+   -Forwarding: With the MAC address table, switches make informed forwarding decisions, sending data only to the appropriate port where the destination MAC address is located.
+   -Filtering: Layer 2 switches filter frames, which means they drop frames not destined for their local segment, reducing unnecessary traffic and optimizing network performance.
+
+4. The Spanning Tree Protocol (STP):
+Lastly, we delved into the Spanning Tree Protocol, a critical mechanism designed to prevent network loops in Ethernet networks. STP calculates and establishes a loop-free topology by selectively blocking certain redundant paths while maintaining alternative paths for data forwarding in case of link failures. This ensures network stability and prevents broadcast storms and other undesirable consequences of network loops.
+
+Conclusion:
+The learning session provided an in-depth understanding of Layer 2 switching, bridges, and switches, along with their limitations. Additionally, the introduction to the Spanning Tree Protocol highlighted the importance of maintaining a loop-free network topology for stable and efficient data transmission. Armed with this knowledge, I am now better equipped to design and manage networks, ensuring optimal performance and reliability.
 <!--
 **judithkwesi/judithkwesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
