@@ -161,6 +161,11 @@ Lastly, we delved into the Spanning Tree Protocol, a critical mechanism designed
 
 Conclusion:
 The learning session provided an in-depth understanding of Layer 2 switching, bridges, and switches, along with their limitations. Additionally, the introduction to the Spanning Tree Protocol highlighted the importance of maintaining a loop-free network topology for stable and efficient data transmission. Armed with this knowledge, I am now better equipped to design and manage networks, ensuring optimal performance and reliability.
+
+#### 17th -21/July/2023
+I explored the layer 3 of the osi model where I interacted with various softwares . These include: GNS3 and packect tracer.
+I was able to carryout the various routing protocols ie., Static routing , OSPF, ISIS.
+I was able to kow how to implement these pprotocols and also know when to use them in a network.
 <!--
 **judithkwesi/judithkwesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
