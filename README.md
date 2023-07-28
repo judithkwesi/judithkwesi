@@ -1,6 +1,6 @@
 ### Introduction
-Hello everyone! I'm Judith Kwesiga, currently undergoing an exciting training program at RENU in Uganda. With a focus on software development, I'm expanding my skills in areas like computer networking, cybersecurity and cloud computing. In this GitHub repository, I'll be documenting my progress, sharing projects, and offering insights into my learning journey. Join me as I embrace challenges, collaborate with peers, and explore the endless possibilities of technology.
-This repository serves as a resource for anyone curious about the training experience at RENU or interested in the technologies we're studying. Feel free to explore, provide feedback, or connect with me for questions, suggestions, or collaboration opportunities. Let's learn, code, and make a positive impact together!
+Hello everyone! I'm Judith Kwesiga, currently undergoing an exciting training program at RENU in Uganda. With a focus on software development, I'm expanding my skills in areas like computer networking, cybersecurity and cloud computing. I'll be documenting my progress, sharing projects, and offering insights into my learning journey. Join me as I embrace challenges, collaborate with peers, and explore the endless possibilities of technology.
+This serves as a resource for anyone curious about the training experience at RENU or interested in the technologies we're studying. Feel free to explore, provide feedback, or connect with me for questions, suggestions, or collaboration opportunities. Let's learn, code, and make a positive impact together!
 
 ### 3rd/July/2023
 
@@ -166,6 +166,9 @@ The learning session provided an in-depth understanding of Layer 2 switching, br
 I explored the layer 3 of the osi model where I interacted with various softwares . These include: GNS3 and packect tracer.
 I was able to carryout the various routing protocols ie., Static routing , OSPF, ISIS.
 I was able to kow how to implement these pprotocols and also know when to use them in a network.
+
+#### 24-28/July/2023
+This has been about the exploration of Linux encompassing various essential aspects, including Linux commands, filesystem and permissions, software installation, file management, scripting, and working with Ansible. This journey provided a comprehensive understanding of Linux operations, empowering me to efficiently navigate and manipulate the system, manage files securely, install and update software, and automate tasks using scripts and Ansible. This exploration has laid a solid foundation for mastering Linux and its versatile capabilities.
 <!--
 **judithkwesi/judithkwesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
