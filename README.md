@@ -1,7 +1,7 @@
-###Introduction:
+### Introduction:
 I am Judith Kwesiga, a skilled professional currently undergoing a comprehensive training program in software development, computer networking, cybersecurity, and cloud computing. I have a passion for learning and a strong commitment to excellence. I aim to leverage my expertise to tackle complex challenges and drive innovation in the tech industry.
 
-##Skills:
+## Skills:
 - Software development
 - Computer networking
 - Cybersecurity
